@@ -1,5 +1,5 @@
 profile = ocamlformat
 break-cases= all
 # assignment-operator=end-line
-break-infix=wrap
+# break-infix=wrap
 # break-infix-before-func
