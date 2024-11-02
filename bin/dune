@@ -1,4 +1,4 @@
 (executable
  (public_name utai)
  (name main)
- (libraries utai))
+ (libraries utai dream))
