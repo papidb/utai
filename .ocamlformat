@@ -2,4 +2,10 @@ profile = ocamlformat
 break-cases= all
 assignment-operator=end-line
 break-infix=wrap
-break-infix-before-func
+sequence-style = separator
+break-sequences = true
+
+break-separators=after
+sequence-style=separator
+
+dock-collection-brackets=true
